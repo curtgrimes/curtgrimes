@@ -4,14 +4,12 @@ I'm Curt, a full-stack web developer currently living in the 🇺🇸 Chicago, I
 
 <h2>Things I know</h2>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-3fb280?logo=vue.js&logoColor=white" /> 
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-444?logo=next.js&logoColor=white" />    
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-0f8371?logo=nuxt.js&logoColor=white" /> 
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-444?logo=next.js&logoColor=white" />    
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-74ac63?logo=node.js&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=333" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-ead81c?logo=express&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2491e6?logo=docker&logoColor=white" /> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-e94e31?logo=git&logoColor=white" /> 
   <img alt="GitHub (+API)" src="https://img.shields.io/badge/-GitHub%20(%2BAPI)-24282e?logo=github&logoColor=white" />
@@ -21,13 +19,10 @@ I'm Curt, a full-stack web developer currently living in the 🇺🇸 Chicago, I
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white" /> 
   <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-dd4b24?logo=html5&logoColor=white" />
   <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-333?logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-6f13ef?logo=bootstrap&logoColor=white" /> 
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-09b0ce?logo=tailwind%20css&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-000?logo=json&logoColor=white" />
-  <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-ff4088?logo=hugo&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4c598d?logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-045e86?logo=mysql&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-db4842?logo=Microsoft%20SQL%20Server&logoColor=white" />
@@ -51,13 +46,10 @@ I'm Curt, a full-stack web developer currently living in the 🇺🇸 Chicago, I
   <img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB13B?logo=svg&logoColor=444" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=white" />
   <img alt="Home Assistant" src="https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=home%20assistant&logoColor=white" />
-  <img alt="IFTTT" src="https://img.shields.io/badge/-IFTTT-000?logo=IFTTT&logoColor=white" />
-  <img alt="AutoHotkey" src="https://img.shields.io/badge/-AutoHotkey-334455?logo=AutoHotkey&logoColor=white" />
 </p>
 
 ## Links
-* **[Web Captioner](https://webcaptioner.com/)** - Speech-to-text accessibility tool developed by me
+* **[Web Captioner](https://webcaptioner.com/)** - A former speech-to-text app using the Web Speech API. 
 * **[curtgrimes.com](https://curtgrimes.com/)** - More about me
 * **[Music by Curt Grimes](https://curtgrimes.com/music)** - In my free time I play piano
