@@ -52,4 +52,3 @@ I'm Curt, a full-stack web developer currently living in the 🇺🇸 Chicago, I
 ## Links
 * **[Web Captioner](https://webcaptioner.com/)** - A former speech-to-text app using the Web Speech API. 
 * **[curtgrimes.com](https://curtgrimes.com/)** - More about me
-* **[Music by Curt Grimes](https://curtgrimes.com/music)** - In my free time I play piano
